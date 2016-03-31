@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=audio
+Exec=qmlscene $@ audio/Main.qml
+Icon=audio/audio.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

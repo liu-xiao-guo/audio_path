@@ -1,0 +1,17 @@
+{
+    "name": "audio.liu-xiao-guo",
+    "description": "description of audio",
+    "architecture": "@CLICK_ARCH@",
+    "title": "audio",
+    "hooks": {
+        "audio": {
+            "apparmor": "audio/audio.apparmor",
+            "desktop":  "audio/audio.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
